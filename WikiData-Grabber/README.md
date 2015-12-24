@@ -72,7 +72,5 @@ Edits: 15
 
 * A lot more data could be added to the script, but so far it only returns the Link, Title, Views, Authors, and Edits to keep things simple.
 
-* No Longer Maintained.
-
 ### License ###
 	Released under the MIT License
