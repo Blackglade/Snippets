@@ -70,4 +70,4 @@ Edits: 15
 * A lot more data could be added to the script, but so far it only returns the Link, Title, Views, Authors, and Edits to keep things simple.
 
 ### License ###
-	Released under the MIT License
+Released under the [MIT License](https://github.com/Blackglade/Snippets/blob/master/LICENSE)
