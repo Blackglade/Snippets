@@ -1,8 +1,5 @@
 WikiData-Grabber
 ================
-
-### About ###
-
 Upon running the script, it will return the following statistics
 
 
