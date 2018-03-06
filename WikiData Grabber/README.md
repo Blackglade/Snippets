@@ -1,4 +1,4 @@
-WikiData-Grabber
+WikiData Grabber
 ================
 Upon running the script, it will return the following statistics
 
